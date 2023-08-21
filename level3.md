@@ -1,4 +1,4 @@
-# Level 3
+# Bandit 3
 
 the next password is in a file named ```spaces in this filename ```
 to find the passwords use these commands:
