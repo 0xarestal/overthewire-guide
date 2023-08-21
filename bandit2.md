@@ -1,4 +1,4 @@
-# Level 2
+# Bandit 2
 
 Step 1:
 the password is in a file named - commands you need to get the password for the next level:
