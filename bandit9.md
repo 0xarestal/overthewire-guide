@@ -7,3 +7,5 @@ to get the password use the commands -
 cat data.txt | sort | uniq -u
 ```
 
+
+and there you go! you have the passoword for bandit10!
